@@ -1,0 +1,22 @@
+{
+  "name": "blogging_app",
+  "version": "1.0.0",
+  "description": "A web_app to blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mkghm12@github.com"
+  },
+  "author": "manish",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.1"
+  }
+}
